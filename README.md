@@ -1,7 +1,7 @@
 ## bonjour!
 ###### croissants are tasty
 
-#### I'm a UI/UX Designer and Web Developer based in the USA
+#### I'm a Graphic Designer, Web Developer, and *now* a Game Developer based in the USA
 
 ![Lim's Statistics](https://github-readme-stats.vercel.app/api?username=luminslo&count_private=true&show_icons=true&theme=graywhite)
 
